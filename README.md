@@ -33,7 +33,7 @@ Looking for collaborators, advisors, and anyone who believes in a better digital
 
 ## 🔗 Connect
 
-- Bluesky: [@vyrapp.bsky.social]
+- Bluesky: [@vyrapp.bsky.social](https://bsky.app/profile/vyrapp.bsky.social)
 - TikTok: [@vyr.app](https://www.tiktok.com/@vyr.app)  
 - Email: [vyrapp@proton.me]
 
